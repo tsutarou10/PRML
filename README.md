@@ -19,13 +19,13 @@ Libraries Used
   
 Usage for some programe
 ---
-1. __python file_name__
+1. __You type [python file_name] on your terminal.__
 2. __You can save some figures of each distribution.__
 3. __You can change some parameter of each distribution.__
 
 Result
 ---
-![bernoulli distribution](bernoulli_0.1.png) (bernoulli_0.5.png) (bernoulli_0.8.png)
+![bernoulli distribution1](bernoulli_0.1.png) ![bernoulli distribution2](bernoulli_0.5.png) ![bernoulli distribution3](bernoulli_0.8.png)
 ![beta distribution] (beta.png)
 ![dirichlet distribution] (dirichlet.png)
 ![categorical distribution] (categorical.png)
