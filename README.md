@@ -21,7 +21,16 @@ Usage for some programe
 ---
 1. __python file_name__
 2. __You can save some figures of each distribution.__
-3. __You can change some parameter of each distribution.
+3. __You can change some parameter of each distribution.__
+
+Result
+---
+![bernoulli distribution](bernoulli_0.1.png) (bernoulli_0.5.png) (bernoulli_0.8.png)
+![beta distribution] (beta.png)
+![dirichlet distribution] (dirichlet.png)
+![categorical distribution] (categorical.png)
+![unicariate normal distribution] (univariate_normal.png)
+![multivariate normal distribution] (multivariate_normal.png)
 
 License
 ---
