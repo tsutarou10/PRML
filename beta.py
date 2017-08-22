@@ -14,5 +14,6 @@ for a,b in zip(alpha,beta):
 	y = (gamma(a+b)/(gamma(a)*gamma(b))) * pow(p,a - 1) * pow(1-p,b - 1)
 	plt.plot(p,y,label = "a = " + str(a) + " b = " + str(b))
 	plt.legend(loc = "upper right")
+plt.title("beta distribution")
 plt.savefig("beta.png")
 plt.show()

@@ -17,5 +17,6 @@ if __name__ == "__main__":
 		y = norm(x,m,s)
 		plt.plot(x,y,label = "meam = " + str(m) + " variance = " + str(s))
 		plt.legend(loc = "upper right")
+	plt.title("Univariate Normal Distribution")
 	plt.savefig("univariate_normal.png")
 	plt.show()
