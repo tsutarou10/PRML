@@ -27,7 +27,7 @@ Result
 ---
 ![bernoulli distribution1](bernoulli_0.1.png) 
 ![bernoulli distribution2](bernoulli_0.5.png) 
-![bernoulli distribution3](bernoulli_0.8.png)
+![bernoulli distribution3](bernoulli_0.7.png)
 ![beta distribution](beta.png)
 ![dirichlet distribution](dirichlet.png)
 ![categorical distribution](categorical.png)
