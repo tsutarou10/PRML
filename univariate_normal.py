@@ -2,7 +2,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-from scipy import integrate
 
 def norm(x,mu,sigma):
 	return 1 / pow(2*np.pi*sigma,0.5) * np.exp(-0.5*pow(x-mu,2)/sigma)
