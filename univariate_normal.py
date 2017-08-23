@@ -2,7 +2,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.mlab as mlab
 from scipy import integrate
 
 def norm(x,mu,sigma):

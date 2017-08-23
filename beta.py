@@ -2,7 +2,6 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import matplotlib.mlab as mlab
 from scipy.special import gamma
 
 N = 100
