@@ -8,6 +8,7 @@ I have implemented the following some distributions.
 3 __categorical distribution__
 4. __unicariate normal distribution__
 5. __multivariate normal distribution__
+6. __gamma distribution__
 
 Libraries Used
 ---
@@ -31,6 +32,7 @@ Result
 ![categorical distribution](categorical.png)
 ![unicariate normal distribution](univariate_normal.png)
 ![multivariate normal distribution](multivariate_normal.png)
+![gamma distribution](gamma.png)
  
 Developers
 ---
