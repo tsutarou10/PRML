@@ -20,14 +20,14 @@ def gradient(initX,learningRate):
 	x = initX
 	dx = 1e-11
 	dist = np.array([])
-
+	iter = 0
 	while True:
 		dist = np.append(dist,x)
 		if -1 * dx < diff(x) < dx:
 			break
 		x = x - learningRate * diff(x)
-
-	return dist
+		iter += 1
+	return dist,iter
 
 if __name__ == '__main__':
 	'''
@@ -35,9 +35,9 @@ if __name__ == '__main__':
 	'''
 	x = np.arange(-4,8,0.1)
 	y = function(x)
-	plt.plot(x,y,label = 'f(x)')
-
-	dist = gradient(0,0.1)
+	dist,iter = gradient(5,0.1)
+	plt.plot(x,y,label = 'f(x) num of iter = ' + str(iter))
+	
 	y = function(dist)
 	plt.plot(dist,y)
 	print 'min = ' + str(dist[len(dist) - 1]) #最小値を出力
