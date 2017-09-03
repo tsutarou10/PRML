@@ -43,4 +43,5 @@ if __name__ == '__main__':
 	print 'min = ' + str(dist[len(dist) - 1]) #最小値を出力
 	plt.legend()
 	plt.show()
+	plt.savefig('gradient_method.png')
 
