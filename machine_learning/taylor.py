@@ -28,30 +28,16 @@ def kaijou(n):
 	return k
 
 if __name__ == '__main__':
-	'''	
-	x = np.array([0 for i in range(100)])
-	y = np.arange(-5,5,0.1)
-	plt.plot(x,y)
-	x = np.arange(-5,5,0.1)
-	print x.shape[0]
-	y = np.array([0 for i in range(100)])
-	plt.plot(x,y)
-	y = function(x)
-	plt.plot(x,y,label = 'y = sin(x)')
-	a = 1
-	fp = diff(a)
-	y = fp * (x - a) + function(a)
-	plt.plot(x,y)
-	plt.legend()
-	plt.show()
-	'''
-	x = np.array([0 for i in range(100)])
-	x = np.arange(-5,5,0.1)
+	x = np.arange(-6,6,0.1)
 	plt.ylim(ymin=-1,ymax=1)
-	f = function([0 for i in range(100)])
+	y = np.sin(x)
+	plt.plot(x,y,label='sin x')
+	plt.legend()
+	f = function([0 for i in range(120)])
+	
 	plt.plot(x,f)
 	plt.grid(True)
-	for i in range(1,10):
+	for i in range(1,12):
 		print kaijou(i)
 		if i % 2 != 0:
 			f += ((diff(0,i) * pow(x,i)) / kaijou(i))
