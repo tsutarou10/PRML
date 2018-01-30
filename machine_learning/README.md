@@ -1,7 +1,7 @@
 Source codes for Machine Learning
  ---
  
-I upload source codes and figures for Machine Learning.
+I upload source codes and figures for Pattern Recognition and Machine Learning.
 
 Libraries Used
 ---
@@ -18,7 +18,9 @@ Usage for some programe
 
 Result
 ---
- 
+___frequently updated___
+
+
 Developers
 ---
 Implementor
