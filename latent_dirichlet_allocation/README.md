@@ -11,13 +11,16 @@ Libraries Used
 - Python
   1. [numpy](http://www.numpy.org/)
   2. [scikit-learn](http://scikit-learn.org/stable/)
-  3. 
+  3. [gensim](https://radimrehurek.com/gensim/)
+  4. [nltk](http://www.nltk.org/)
+
   
 Usage for some programe
 ---
-1. __You type "lda.py" on your terminal.__
-2. __You can save some figures of each distribution.__
-3. __You can change some parameter of each distribution.__
+1. __You should prepare the file for "stop word".
+2. __You type "lda.py" on your terminal.__
+3. __You can save some figures of each distribution.__
+4. __You can change some parameter of each distribution.__
 
 Reference
 ---
