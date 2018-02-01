@@ -1,9 +1,8 @@
 Source codes for Latent Dirichlet Allocation
  ---
  
-I upload source codes and figures for LDA. a generative probabilistic model for collections of
-discrete data such as text corpora.
-Latent Dirichlet Allocation (LDA) is a generative probabilistic model for text corpora.
+I upload source codes and figures for Latent Dirichlet Allocation (LDA).
+LDA is a generative probabilistic model for text corpora.
 I upload the program I have implemented for my study. 
 
 Libraries Used
