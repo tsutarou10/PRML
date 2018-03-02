@@ -17,8 +17,14 @@ Libraries Used
 Usage for some programe
 ---
 1. __You should prepare the file for "stop word".__
-2. __You type "lda.py" on your terminal.__
+2. __You type__
+~~~
+lda.py
+~~~
+__on your terminal.__
+
 3. __You can save some figures of each distribution.__
+
 4. __You can change some parameter of each distribution.__
 
 Reference
