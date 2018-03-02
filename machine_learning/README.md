@@ -17,7 +17,9 @@ Usage for some programe
 python file_name
 ~~~
 __on your terminal.__
+
 2. __You can save some figures of each distribution.__
+
 3. __You can change some parameter of each distribution.__
 
 Result
