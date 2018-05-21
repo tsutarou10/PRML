@@ -13,6 +13,7 @@ Libraries Used
 Usage for Kmeans
 ---
 Saving the file "kmeans.py".
+
 Next, you should import this file.
 ~~~
 >> from kmeans import Kmeans
