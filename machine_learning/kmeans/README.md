@@ -21,13 +21,17 @@ You should import this file.
 and
 ~~~
 
-cls = Kmeans(clusterNum = 3)
-X = cls.loadFeatures()
-Y = cls.main(X)
-cls.show(X, Y)
+>> cls = Kmeans(clusterNum = 3)
+>> X = cls.loadFeatures()
+>> Y = cls.main(X)
+>> cls.show(X, Y)
 ~~~
 
 You can show the result of kmeans after typing this code in main function.
+
+Result
+---
+![result of  Kmeans](kmeans.png)
 
 Developers
 ---
