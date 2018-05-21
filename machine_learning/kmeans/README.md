@@ -11,9 +11,9 @@ Libraries Used
   3. [matplotlib](https://matplotlib.org)
 
 Usage for Kmeans
-Saving the file "kmeans.py".
 ---
-You should import this file.
+Saving the file "kmeans.py".
+Next, you should import this file.
 ~~~
 >> from kmeans import Kmeans
 ~~~
