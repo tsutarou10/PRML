@@ -1,7 +1,7 @@
 Source codes for PCA (principal component analysis)
  --- 
 
-I upload source codes of Kmeans and figure that shows result of PCA.
+I upload source codes of PCA and figure that shows result of PCA.
 
 Libraries Used
 ---
