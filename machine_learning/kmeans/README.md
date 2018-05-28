@@ -3,6 +3,8 @@ Source codes for Kmeans
 
 I upload source codes of Kmeans and figure that shows result of Kmeans.
 
+I implemented source code of Kmeans without scikit-learn. (but I use dataset of Iris in scikit-learn.)
+
 Libraries Used
 ---
 - python
