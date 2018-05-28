@@ -12,8 +12,7 @@ Libraries Used
   
 Usage for some programe
 ---
-1. 
-~~~
+1. ~~~
 python bernoulli.py
 ~~~
 2. __You can save some figures of each distribution.__
