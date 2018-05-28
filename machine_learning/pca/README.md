@@ -3,6 +3,7 @@ Source codes for PCA (principal component analysis)
 
 I upload source codes of PCA and figure that shows result of PCA.
 
+I implemented source code of PCA without scikit-learn. (but I use the dataset of Iris in scikit-learn for test.)
 Libraries Used
 ---
 - python
