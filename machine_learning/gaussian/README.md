@@ -15,9 +15,17 @@ Libraries Used
   
 Usage for some programe
 ---
-1. __You type "python unicariate_normal.py" or "python multivariate_normal.py" on your terminal.__
-2. __You can save some figures of each distribution.__
-3. __You can change some parameter of each distribution.__
+~~~
+>> python unicariate_noraml.py
+~~~
+or
+~~~
+>> python multivariate_normal.py
+~~~
+
+__You can save some figures of each distribution.__
+
+__You can change some parameter of each distribution.__
 
 Result
 ---
