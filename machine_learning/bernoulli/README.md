@@ -16,6 +16,7 @@ Usage for some programe
 >> python bernoulli.py
 ~~~
  __You can save some figures of each distribution.__
+ 
  __You can change some parameter of each distribution.__
 
 Result
