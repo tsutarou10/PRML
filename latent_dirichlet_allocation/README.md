@@ -18,9 +18,10 @@ Usage for some programe
 ---
 1. __You should prepare the file for "stop word".__
 2. __You type__
-~~~
-lda.py
-~~~
+
+```python
+python lda.py
+```
 __on your terminal.__
 
 3. __You can save some figures of each distribution.__
