@@ -19,7 +19,7 @@ Usage for some programe
 1. __You should prepare the file for "stop word".__
 2. __You type__
 
-```python
+```vim
 python lda.py
 ```
 __on your terminal.__
