@@ -15,17 +15,19 @@ Usage for K-nearet neighbor method
 Saving the file "knn.py".
 
 Next, you should import this file.
-~~~python
+
+```python
 from knn import KNN
-~~~
+```
 
 and
-~~~python
+
+```python
 knn = KNN(k = 30, trRate = 0.8)
 trX, teX, trY, teY = knn.prepareData()
 y_pred = knn.main(trX, teX, trY)
 knn.metrics(y_pred, teY)
-~~~
+```
 
 You can show the result of KNN after typing this code in main function.
 

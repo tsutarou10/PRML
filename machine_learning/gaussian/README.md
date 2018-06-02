@@ -15,13 +15,14 @@ Libraries Used
   
 Usage for some programe
 ---
-~~~
->> python unicariate_noraml.py
-~~~
+```vim
+python unicariate_noraml.py
+```
 or
-~~~
->> python multivariate_normal.py
-~~~
+
+```vim
+python multivariate_normal.py
+```
 
 __You can save some figures of each distribution.__
 

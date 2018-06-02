@@ -12,9 +12,9 @@ Libraries Used
   
 Usage for some programe
 ---
-~~~
->> python beta.py
-~~~
+```vim
+python beta.py
+```
 __You can save some figures of each distribution.__
 
 __You can change some parameter of each distribution.__

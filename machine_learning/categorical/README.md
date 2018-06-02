@@ -12,9 +12,9 @@ Libraries Used
   
 Usage for some programe
 ---
-~~~
->> python categorical.py
-~~~
+```vim
+python categorical.py
+```
 
 __You can save some figures of each distribution.__
 

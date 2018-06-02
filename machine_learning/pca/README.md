@@ -10,25 +10,26 @@ Libraries Used
   1. [numpy](http://www.numpy.org/)
   2. [scikit-learn](http://scikit-learn.org/stable/)
   3. [matplotlib](https://matplotlib.org)
-
 Usage for PCA
 ---
 Saving the file "pca.py".
 
 Next, you should import this file.
-~~~
->> from pca import PCA
-~~~
+
+```python
+from pca import PCA
+```
 
 and
-~~~
->> iris = load\_iris()
->> pca = PCA(n\_components = 2)
->> X = pca.main(iris.data)
->> plt.figure()
->> plt.scatter(x[:.0], x[:,1], color = iris.target)
->> plt.show()
-~~~
+
+```python
+iris = load\_iris()
+pca = PCA(n\_components = 2)
+X = pca.main(iris.data)
+plt.figure()
+plt.scatter(x[:.0], x[:,1], color = iris.target)
+plt.show()
+```
 
 You can show the result of pca after typing this code in main function.
 
@@ -38,5 +39,7 @@ Result
 
 Developers
 ---
+
 Implementor
  - [Tatsuro Miyazaki]
+	 
