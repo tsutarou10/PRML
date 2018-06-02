@@ -16,7 +16,7 @@ Saving the file "knn.py".
 
 Next, you should import this file.
 ~~~
->> from knn import KNN
+from knn import KNN
 ~~~
 
 and
