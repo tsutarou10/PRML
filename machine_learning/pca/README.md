@@ -23,8 +23,8 @@ from pca import PCA
 and
 
 ```python
-iris = load\_iris()
-pca = PCA(n\_components = 2)
+iris = load_iris()
+pca = PCA(n_components = 2)
 X = pca.main(iris.data)
 plt.figure()
 plt.scatter(x[:.0], x[:,1], color = iris.target)
